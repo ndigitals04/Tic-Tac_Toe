@@ -1,4 +1,4 @@
-# Command Prompt Tic TAc Game
+# Command Prompt Tic Tac Toe Game
 ## How to play
 <ul>
 <li> Ensure python 3 is installed in your system</li>
