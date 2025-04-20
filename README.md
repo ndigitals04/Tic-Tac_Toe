@@ -10,5 +10,3 @@
 <li> "mid-l" : mid-left | "mid-m": mid-middle | "mid-r" : mid-right</li>
 <li> "low-l" : low-left | "low-m": low-middle | "low-r" : low-right</li>
 </ul>
-
-"## Command Prompt Game" 
